@@ -56,7 +56,7 @@ You can now start the IPFS daemon:
 
 * `ipfs.js`
   The IPFS interface in JavaScript (repository [here](https://github.com/ipfs/js-ipfs-api)).
-  You can find the source (*broweserified*) code [here](https://npmcdn.com/ipfs-api@4.0.0/dist/index.js)
+  You can find the source (*broweserified*) code [here](https://unpkg.com/ipfs-api@4.0.0/dist/index.js)
 
 * `web3.min.js`
   The Ethereum interface in JavaScript (repository [here](https://github.com/ethereum/web3.js))
