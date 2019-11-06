@@ -5,6 +5,8 @@ A bare-bones example on how to use IPFS and Ethereum from the same application.
 Check [this wiki](https://github.com/ledgerlabs/ethereum-getting-started/wiki/Anatomy-of-a-Contract) 
 for the original, Ethereum-only idea.
 
+**Note:** the term _blockchain_, used below, can also be read as _multiple copies of a giant spreadsheet_.
+
 ## Description
 
 This application deploys a contract to an Ethereum blockchain (the public Ethereum 
